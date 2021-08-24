@@ -1,2 +1,3 @@
-# Zanzan-teach
-\讚讚教嗎/
+# Zanzan-teach-me
+
+\Zanzan 教我/
