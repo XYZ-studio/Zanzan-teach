@@ -29,3 +29,8 @@ h1{
     text-align: center;
     font-size: 1.4em;
 }
+
+a{
+    color: #08c;
+    text-shadow: 1px 1px #FFF;
+}
